@@ -8,3 +8,5 @@ This App was developed using SFML Graphics libraries with C++.
 Growth/movement of snake is modeled with a list algorithm, coordinates and growth stored as variables defined by Train class.
 Position of T logo and start position of snowballs are randomly generated coordinates.
 Developed an algorithm for radial motion by generating circle of random radius to define the path.
+
+I do not own any of the included .png and .ttf, which were free downloads from the internet.
